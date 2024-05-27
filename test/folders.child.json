@@ -1,0 +1,50 @@
+﻿[
+  {
+    "id": "8Ki9MUwHX",
+    "parent_id": "qfjQLytFT",
+    "name": "Tăng Sư",
+    "level": 0,
+    "status": 0,
+    "hint": null,
+    "utime": 240524051648,
+    "cphoto": 0,
+    "cfile": 0,
+    "cfolder": 0
+  },
+  {
+    "id": "WzZbFcN0D",
+    "parent_id": "qfjQLytFT",
+    "name": "La Hán",
+    "level": 0,
+    "status": 0,
+    "hint": null,
+    "utime": 240524051633,
+    "cphoto": 0,
+    "cfile": 0,
+    "cfolder": 0
+  },
+  {
+    "id": "T9f4POLRd",
+    "parent_id": "qfjQLytFT",
+    "name": "Bồ Tát",
+    "level": 0,
+    "status": 0,
+    "hint": null,
+    "utime": 240524051624,
+    "cphoto": 0,
+    "cfile": 0,
+    "cfolder": 0
+  },
+  {
+    "id": "ZFppa5BdK",
+    "parent_id": "qfjQLytFT",
+    "name": "Phật",
+    "level": 0,
+    "status": 0,
+    "hint": null,
+    "utime": 240524051607,
+    "cphoto": 0,
+    "cfile": 0,
+    "cfolder": 0
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "1.png",
+    "id": "b089c89d-457c-45d0-8706-bf842abf748d",
+    "updated_at": "2024-05-15T03:36:16.065Z",
+    "created_at": "2024-05-15T03:36:16.065Z",
+    "last_accessed_at": "2024-05-15T03:36:16.065Z",
+    "metadata": {
+      "eTag": "\"511433566c17b5d41a701263d551424e\"",
+      "size": 361191,
+      "mimetype": "image/png",
+      "cacheControl": "max-age=3600",
+      "lastModified": "2024-05-15T03:36:16.000Z",
+      "contentLength": 361191,
+      "httpStatusCode": 200
+    }
+  },
+  {
+    "name": "16002-149-1809_P01_180pxh.jpg",
+    "id": "e6a67be4-d334-40d8-87d9-ab04ab6119a2",
+    "updated_at": "2024-05-15T09:16:06.048Z",
+    "created_at": "2024-05-15T09:16:06.048Z",
+    "last_accessed_at": "2024-05-15T09:16:06.048Z",
+    "metadata": {
+      "eTag": "\"d65cec632a58a56d06e3ec2bebe27642-1\"",
+      "size": 4518,
+      "mimetype": "image/jpeg",
+      "cacheControl": "no-cache",
+      "lastModified": "2024-05-15T09:16:06.000Z",
+      "contentLength": 4518,
+      "httpStatusCode": 200
+    }
+  }
+]
