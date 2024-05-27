@@ -1,4 +1,6 @@
 {
   "id": "p8srckYrk",
-  "title": "Mascot"
+  "title": "Mascot",
+  "assets": [ "child", "post", "tooltip", "photo", "media", "file", "event", "job" ],
+  "status": 1
 }

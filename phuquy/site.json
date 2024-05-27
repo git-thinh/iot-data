@@ -1,4 +1,6 @@
 {
   "id": "Zjzdt1VNV",
-  "title": "PhuQuy"
+  "title": "PhuQuy",
+  "assets": [ "child", "post", "tooltip", "photo", "media", "file", "event", "job" ],
+  "status": 1
 }
