@@ -5,6 +5,14 @@
     "__menuApp": {
       "vueName": "menu-app",
       "css": ""
+    },
+    "__formKit": {
+      "vueName": "kit-form",
+      "css": ""
+    },
+    "__alertKit": {
+      "vueName": "kit-alert",
+      "css": ""
     }
   },
   "assets": [ "child", "post", "tooltip", "photo", "media", "file", "event", "job" ],
