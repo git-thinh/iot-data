@@ -1,6 +1,12 @@
 {
   "id": "p8srckYrk",
   "title": "Mascot",
+  "appInline": {
+    "__menuApp": {
+      "vueName": "menu-app",
+      "css": ""
+    }
+  },
   "assets": [ "child", "post", "tooltip", "photo", "media", "file", "event", "job" ],
   "status": 1
 }
