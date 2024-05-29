@@ -1,0 +1,655 @@
+﻿1123,ps-AF,Pashto,Afghanistan
+4096,fa-AF,Persian,Afghanistan
+4096,uz-AF,Uzbek,Afghanistan
+4096,sv-AX,Swedish,Åland Islands
+1052,sq-AL,Albanian,Albania
+4096,en-AL,English,Albania
+5121,ar-DZ,Arabic,Algeria
+4096,fr-DZ,French,Algeria
+4096,kab-DZ,Kabyle,Algeria
+4096,en-AS,English,American Samoa
+4096,ca-AD,Catalan,Andorra
+4096,en-AD,English,Andorra
+4096,ln-AO,Lingala,Angola
+4096,pt-AO,Portuguese,Angola
+4096,en-AI,English,Anguilla
+4096,es-AI,Spanish,Anguilla
+4096,en-AG,English,Antigua & Barbuda
+4096,es-AG,Spanish,Antigua & Barbuda
+4096,en-AR,English,Argentina
+11274,es-AR,Spanish,Argentina
+1067,hy-AM,Armenian,Armenia
+4096,nl-AW,Dutch,Aruba
+4096,es-AW,Spanish,Aruba
+3081,en-AU,English,Australia
+4096,en-AT,English,Austria
+3079,de-AT,German,Austria
+1068,az-AZ,Azerbaijani,Azerbaijan
+2092,az-AZ,Azerbaijani,Azerbaijan
+4096,en-BS,English,Bahamas
+4096,es-BS,Spanish,Bahamas
+15361,ar-BH,Arabic,Bahrain
+2117,bn-BD,Bangla,Bangladesh
+4096,ccp-BD,Chakma,Bangladesh
+4096,en-BD,English,Bangladesh
+4096,en-BB,English,Barbados
+4096,es-BB,Spanish,Barbados
+1059,be-BY,Belarusian,Belarus
+4096,ru-BY,Russian,Belarus
+2067,nl-BE,Dutch,Belgium
+4096,en-BE,English,Belgium
+2060,fr-BE,French,Belgium
+4096,de-BE,German,Belgium
+4096,wa-BE,Walloon,Belgium
+10249,en-BZ,English,Belize
+4096,es-BZ,Spanish,Belize
+4096,fr-BJ,French,Benin
+4096,yo-BJ,Yoruba,Benin
+4096,en-BM,English,Bermuda
+4096,es-BM,Spanish,Bermuda
+3153,dz-BT,Dzongkha,Bhutan
+4096,qu-BO,Quechua,Bolivia
+16394,es-BO,Spanish,Bolivia
+5146,bs-BA,Bosnian,Bosnia & Herzegovina
+8218,bs-BA,Bosnian,Bosnia & Herzegovina
+4122,hr-BA,Croatian,Bosnia & Herzegovina
+4096,en-BA,English,Bosnia & Herzegovina
+6170,sr-BA,Serbian,Bosnia & Herzegovina
+7194,sr-BA,Serbian,Bosnia & Herzegovina
+4096,en-BW,English,Botswana
+2098,tn-BW,Tswana,Botswana
+4096,en-BR,English,Brazil
+1046,pt-BR,Portuguese,Brazil
+4096,es-BR,Spanish,Brazil
+4096,en-IO,English,British Indian Ocean Territory
+4096,en-VG,English,British Virgin Islands
+4096,es-VG,Spanish,British Virgin Islands
+2110,ms-BN,Malay,Brunei
+4096,ms-BN,Malay,Brunei
+1026,bg-BG,Bulgarian,Bulgaria
+4096,en-BG,English,Bulgaria
+4096,fr-BF,French,Burkina Faso
+4096,ff-BF,Fulah,Burkina Faso
+4096,en-BI,English,Burundi
+4096,fr-BI,French,Burundi
+4096,rn-BI,Rundi,Burundi
+1107,km-KH,Khmer,Cambodia
+4096,agq-CM,Aghem,Cameroon
+4096,ksf-CM,Bafia,Cameroon
+4096,bas-CM,Basaa,Cameroon
+4096,dua-CM,Duala,Cameroon
+4096,en-CM,English,Cameroon
+4096,ewo-CM,Ewondo,Cameroon
+11276,fr-CM,French,Cameroon
+4096,ff-CM,Fulah,Cameroon
+4096,kkj-CM,Kako,Cameroon
+4096,nmg-CM,Kwasio,Cameroon
+4096,mgo-CM,Metaʼ,Cameroon
+4096,mua-CM,Mundang,Cameroon
+4096,nnh-CM,Ngiemboon,Cameroon
+4096,jgo-CM,Ngomba,Cameroon
+4096,yav-CM,Yangben,Cameroon
+4105,en-CA,English,Canada
+3084,fr-CA,French,Canada
+4096,iu-CA,Inuktitut,Canada
+1148,moh-CA,Mohawk,Canada
+4096,es-CA,Spanish,Canada
+4096,es-IC,Spanish,Canary Islands
+4096,kea-CV,Kabuverdianu,Cape Verde
+4096,pt-CV,Portuguese,Cape Verde
+4096,nl-BQ,Dutch,Caribbean Netherlands
+4096,es-BQ,Spanish,Caribbean Netherlands
+4096,en-KY,English,Cayman Islands
+4096,es-KY,Spanish,Cayman Islands
+4096,fr-CF,French,Central African Republic
+4096,ln-CF,Lingala,Central African Republic
+4096,sg-CF,Sango,Central African Republic
+4096,es-EA,Spanish,Ceuta & Melilla
+4096,ar-TD,Arabic,Chad
+4096,fr-TD,French,Chad
+4096,en-CL,English,Chile
+1146,arn-CL,Mapuche,Chile
+13322,es-CL,Spanish,Chile
+4096,yue-CN,Cantonese,China mainland
+4096,zh-CN,Chinese,China mainland
+4096,zh-CN,Chinese,China mainland
+4096,en-CN,English,China mainland
+1144,ii-CN,Sichuan Yi,China mainland
+1105,bo-CN,Tibetan,China mainland
+1152,ug-CN,Uyghur,China mainland
+4096,en-CX,English,Christmas Island
+4096,en-CC,English,Cocos (Keeling) Islands
+4096,en-CO,English,Colombia
+9226,es-CO,Spanish,Colombia
+4096,ar-KM,Arabic,Comoros
+4096,fr-KM,French,Comoros
+4096,fr-CG,French,Congo - Brazzaville
+4096,ln-CG,Lingala,Congo - Brazzaville
+9228,fr-CD,French,Congo - Kinshasa
+4096,ln-CD,Lingala,Congo - Kinshasa
+4096,lu-CD,Luba-Katanga,Congo - Kinshasa
+4096,sw-CD,Swahili,Congo - Kinshasa
+4096,en-CK,English,Cook Islands
+5130,es-CR,Spanish,Costa Rica
+12300,fr-CI,French,Côte d’Ivoire
+1050,hr-HR,Croatian,Croatia
+4096,en-HR,English,Croatia
+23562,es-CU,Spanish,Cuba
+4096,nl-CW,Dutch,Curaçao
+4096,es-CW,Spanish,Curaçao
+4096,en-CY,English,Cyprus
+4096,el-CY,Greek,Cyprus
+4096,tr-CY,Turkish,Cyprus
+1029,cs-CZ,Czech,Czechia
+4096,en-CZ,English,Czechia
+1030,da-DK,Danish,Denmark
+4096,en-DK,English,Denmark
+4096,fo-DK,Faroese,Denmark
+4096,en-DG,English,Diego Garcia
+4096,ar-DJ,Arabic,Djibouti
+4096,fr-DJ,French,Djibouti
+4096,so-DJ,Somali,Djibouti
+4096,en-DM,English,Dominica
+4096,es-DM,Spanish,Dominica
+7178,es-DO,Spanish,Dominican Republic
+4096,qu-EC,Quechua,Ecuador
+12298,es-EC,Spanish,Ecuador
+3073,ar-EG,Arabic,Egypt
+17418,es-SV,Spanish,El Salvador
+4096,fr-GQ,French,Equatorial Guinea
+4096,pt-GQ,Portuguese,Equatorial Guinea
+4096,es-GQ,Spanish,Equatorial Guinea
+4096,ar-ER,Arabic,Eritrea
+4096,byn-ER,Blin,Eritrea
+4096,en-ER,English,Eritrea
+4096,gez-ER,Geez,Eritrea
+4096,tig-ER,Tigre,Eritrea
+2163,ti-ER,Tigrinya,Eritrea
+4096,en-EE,English,Estonia
+1061,et-EE,Estonian,Estonia
+4096,en-SZ,English,Eswatini
+4096,ss-SZ,Swati,Eswatini
+1118,am-ET,Amharic,Ethiopia
+4096,gez-ET,Geez,Ethiopia
+1138,om-ET,Oromo,Ethiopia
+4096,so-ET,Somali,Ethiopia
+1139,ti-ET,Tigrinya,Ethiopia
+4096,wal-ET,Wolaytta,Ethiopia
+4096,en-150,English,Europe
+4096,en-FK,English,Falkland Islands
+4096,es-FK,Spanish,Falkland Islands
+1080,fo-FO,Faroese,Faroe Islands
+4096,en-FJ,English,Fiji
+4096,en-FI,English,Finland
+1035,fi-FI,Finnish,Finland
+9275,smn-FI,Inari Sami,Finland
+3131,se-FI,Northern Sami,Finland
+2077,sv-FI,Swedish,Finland
+1150,br-FR,Breton,France
+4096,ca-FR,Catalan,France
+1155,co-FR,Corsican,France
+4096,en-FR,English,France
+1036,fr-FR,French,France
+1154,oc-FR,Occitan,France
+4096,pt-FR,Portuguese,France
+1156,gsw-FR,Swiss German,France
+4096,fr-GF,French,French Guiana
+4096,es-GF,Spanish,French Guiana
+4096,fr-PF,French,French Polynesia
+4096,fr-GA,French,Gabon
+4096,en-GM,English,Gambia
+4096,ff-GM,Fulah,Gambia
+1079,ka-GE,Georgian,Georgia
+4096,os-GE,Ossetic,Georgia
+4096,ksh-DE,Colognian,Germany
+4096,en-DE,English,Germany
+1031,de-DE,German,Germany
+4096,nds-DE,Low German,Germany
+2094,dsb-DE,Lower Sorbian,Germany
+1070,hsb-DE,Upper Sorbian,Germany
+4096,ak-GH,Akan,Ghana
+4096,en-GH,English,Ghana
+4096,ee-GH,Ewe,Ghana
+4096,ff-GH,Fulah,Ghana
+4096,gaa-GH,Ga,Ghana
+4096,ha-GH,Hausa,Ghana
+4096,en-GI,English,Gibraltar
+4096,en-GR,English,Greece
+1032,el-GR,Greek,Greece
+4096,da-GL,Danish,Greenland
+1135,kl-GL,Kalaallisut,Greenland
+4096,es-GL,Spanish,Greenland
+4096,en-GD,English,Grenada
+4096,es-GD,Spanish,Grenada
+4096,fr-GP,French,Guadeloupe
+4096,es-GP,Spanish,Guadeloupe
+4096,en-GU,English,Guam
+4106,es-GT,Spanish,Guatemala
+4096,en-GG,English,Guernsey
+4096,ff-GW,Fulah,Guinea-Bissau
+4096,pt-GW,Portuguese,Guinea-Bissau
+4096,fr-GN,French,Guinea
+4096,ff-GN,Fulah,Guinea
+4096,kpe-GN,Kpelle,Guinea
+4096,nqo-GN,N’Ko,Guinea
+4096,en-GY,English,Guyana
+4096,es-GY,Spanish,Guyana
+15372,fr-HT,French,Haiti
+4096,es-HT,Spanish,Haiti
+18442,es-HN,Spanish,Honduras
+4096,yue-HK,Cantonese,Hong Kong
+4096,zh-HK,Chinese,Hong Kong
+4096,zh-HK,Chinese,Hong Kong
+15369,en-HK,English,Hong Kong
+4096,en-HU,English,Hungary
+1038,hu-HU,Hungarian,Hungary
+4096,en-IS,English,Iceland
+1039,is-IS,Icelandic,Iceland
+1101,as-IN,Assamese,India
+1093,bn-IN,Bangla,India
+4096,brx-IN,Bodo,India
+4096,ccp-IN,Chakma,India
+16393,en-IN,English,India
+1095,gu-IN,Gujarati,India
+1081,hi-IN,Hindi,India
+1099,kn-IN,Kannada,India
+4096,ks-IN,Kashmiri,India
+4096,ks-IN,Kashmiri,India
+4096,ks-IN,Kashmiri,India
+1111,kok-IN,Konkani,India
+1100,ml-IN,Malayalam,India
+4096,mni-IN,Manipuri,India
+4096,mni-IN,Manipuri,India
+1102,mr-IN,Marathi,India
+2145,ne-IN,Nepali,India
+1096,or-IN,Odia,India
+4096,pa-IN,Punjabi,India
+1103,sa-IN,Sanskrit,India
+4096,sat-IN,Santali,India
+4096,sat-IN,Santali,India
+1097,ta-IN,Tamil,India
+1098,te-IN,Telugu,India
+4096,bo-IN,Tibetan,India
+2080,ur-IN,Urdu,India
+4096,ur-IN,Urdu,India
+4096,ur-IN,Urdu,India
+14345,en-ID,English,Indonesia
+1057,id-ID,Indonesian,Indonesia
+4096,jv-ID,Javanese,Indonesia
+4096,ckb-IR,Kurdish - Sorani,Iran
+4096,mzn-IR,Mazanderani,Iran
+4096,lrc-IR,Northern Luri,Iran
+1065,fa-IR,Persian,Iran
+2049,ar-IQ,Arabic,Iraq
+4096,ckb-IQ,Kurdish - Sorani,Iraq
+4096,lrc-IQ,Northern Luri,Iraq
+4096,syr-IQ,Syriac,Iraq
+6153,en-IE,English,Ireland
+2108,ga-IE,Irish,Ireland
+4096,en-IM,English,Isle of Man
+4096,gv-IM,Manx,Isle of Man
+4096,ar-IL,Arabic,Israel
+4096,en-IL,English,Israel
+1037,he-IL,Hebrew,Israel
+4096,ca-IT,Catalan,Italy
+4096,en-IT,English,Italy
+4096,fur-IT,Friulian,Italy
+4096,de-IT,German,Italy
+1040,it-IT,Italian,Italy
+4096,sc-IT,Sardinian,Italy
+4096,scn-IT,Sicilian,Italy
+8201,en-JM,English,Jamaica
+4096,en-JP,English,Japan
+1041,ja-JP,Japanese,Japan
+4096,en-JE,English,Jersey
+11265,ar-JO,Arabic,Jordan
+1087,kk-KZ,Kazakh,Kazakhstan
+4096,ru-KZ,Russian,Kazakhstan
+4096,ebu-KE,Embu,Kenya
+4096,en-KE,English,Kenya
+4096,guz-KE,Gusii,Kenya
+4096,kln-KE,Kalenjin,Kenya
+4096,kam-KE,Kamba,Kenya
+4096,ki-KE,Kikuyu,Kenya
+4096,luo-KE,Luo,Kenya
+4096,luy-KE,Luyia,Kenya
+4096,mas-KE,Masai,Kenya
+4096,mer-KE,Meru,Kenya
+4096,om-KE,Oromo,Kenya
+4096,saq-KE,Samburu,Kenya
+4096,so-KE,Somali,Kenya
+1089,sw-KE,Swahili,Kenya
+4096,dav-KE,Taita,Kenya
+4096,teo-KE,Teso,Kenya
+4096,en-KI,English,Kiribati
+4096,sq-XK,Albanian,Kosovo
+4096,sr-XK,Serbian,Kosovo
+4096,sr-XK,Serbian,Kosovo
+13313,ar-KW,Arabic,Kuwait
+1088,ky-KG,Kyrgyz,Kyrgyzstan
+4096,ru-KG,Russian,Kyrgyzstan
+1108,lo-LA,Lao,Laos
+22538,es-419,Spanish,Latin America
+4096,en-LV,English,Latvia
+1062,lv-LV,Latvian,Latvia
+12289,ar-LB,Arabic,Lebanon
+4096,en-LS,English,Lesotho
+4096,st-LS,Southern Sotho,Lesotho
+4096,en-LR,English,Liberia
+4096,ff-LR,Fulah,Liberia
+4096,kpe-LR,Kpelle,Liberia
+4096,vai-LR,Vai,Liberia
+4096,vai-LR,Vai,Liberia
+4097,ar-LY,Arabic,Libya
+5127,de-LI,German,Liechtenstein
+4096,gsw-LI,Swiss German,Liechtenstein
+4096,en-LT,English,Lithuania
+1063,lt-LT,Lithuanian,Lithuania
+4096,en-LU,English,Luxembourg
+5132,fr-LU,French,Luxembourg
+4103,de-LU,German,Luxembourg
+1134,lb-LU,Luxembourgish,Luxembourg
+4096,pt-LU,Portuguese,Luxembourg
+4096,zh-MO,Chinese,Macao
+4096,zh-MO,Chinese,Macao
+4096,en-MO,English,Macao
+4096,pt-MO,Portuguese,Macao
+4096,en-MG,English,Madagascar
+4096,fr-MG,French,Madagascar
+4096,mg-MG,Malagasy,Madagascar
+4096,en-MW,English,Malawi
+4096,ny-MW,Nyanja,Malawi
+17417,en-MY,English,Malaysia
+1086,ms-MY,Malay,Malaysia
+4096,ms-MY,Malay,Malaysia
+4096,ta-MY,Tamil,Malaysia
+1125,dv-MV,Dhivehi,Maldives
+4096,en-MV,English,Maldives
+4096,bm-ML,Bambara,Mali
+13324,fr-ML,French,Mali
+4096,khq-ML,Koyra Chiini,Mali
+4096,ses-ML,Koyraboro Senni,Mali
+4096,en-MT,English,Malta
+1082,mt-MT,Maltese,Malta
+4096,en-MH,English,Marshall Islands
+4096,fr-MQ,French,Martinique
+4096,es-MQ,Spanish,Martinique
+4096,ar-MR,Arabic,Mauritania
+4096,fr-MR,French,Mauritania
+4096,ff-MR,Fulah,Mauritania
+4096,en-MU,English,Mauritius
+4096,fr-MU,French,Mauritius
+4096,mfe-MU,Morisyen,Mauritius
+4096,fr-YT,French,Mayotte
+4096,en-MX,English,Mexico
+2058,es-MX,Spanish,Mexico
+4096,en-FM,English,Micronesia
+2072,ro-MD,Romanian,Moldova
+2073,ru-MD,Russian,Moldova
+6156,fr-MC,French,Monaco
+1104,mn-MN,Mongolian,Mongolia
+4096,en-ME,English,Montenegro
+11290,sr-ME,Serbian,Montenegro
+12314,sr-ME,Serbian,Montenegro
+4096,en-MS,English,Montserrat
+4096,es-MS,Spanish,Montserrat
+6145,ar-MA,Arabic,Morocco
+4096,tzm-MA,Central Atlas Tamazight,Morocco
+14348,fr-MA,French,Morocco
+4096,zgh-MA,Standard Moroccan Tamazight,Morocco
+4096,shi-MA,Tachelhit,Morocco
+4096,shi-MA,Tachelhit,Morocco
+4096,mgh-MZ,Makhuwa-Meetto,Mozambique
+4096,pt-MZ,Portuguese,Mozambique
+4096,seh-MZ,Sena,Mozambique
+1109,my-MM,Burmese,Myanmar (Burma)
+4096,en-MM,English,Myanmar (Burma)
+4096,af-NA,Afrikaans,Namibia
+4096,en-NA,English,Namibia
+4096,naq-NA,Nama,Namibia
+4096,en-NR,English,Nauru
+1121,ne-NP,Nepali,Nepal
+1043,nl-NL,Dutch,Netherlands
+4096,en-NL,English,Netherlands
+4096,nds-NL,Low German,Netherlands
+1122,fy-NL,Western Frisian,Netherlands
+4096,fr-NC,French,New Caledonia
+5129,en-NZ,English,New Zealand
+1153,mi-NZ,Maori,New Zealand
+19466,es-NI,Spanish,Nicaragua
+4096,fr-NE,French,Niger
+4096,ff-NE,Fulah,Niger
+4096,ha-NE,Hausa,Niger
+4096,twq-NE,Tasawaq,Niger
+4096,dje-NE,Zarma,Niger
+4096,en-NG,English,Nigeria
+4096,ff-NG,Fulah,Nigeria
+4096,ha-NG,Hausa,Nigeria
+1136,ig-NG,Igbo,Nigeria
+4096,kaj-NG,Jju,Nigeria
+4096,kcg-NG,Tyap,Nigeria
+1130,yo-NG,Yoruba,Nigeria
+4096,en-NU,English,Niue
+4096,en-NF,English,Norfolk Island
+4096,ko-KP,Korean,North Korea
+4096,sq-MK,Albanian,North Macedonia
+1071,mk-MK,Macedonian,North Macedonia
+4096,en-MP,English,Northern Mariana Islands
+4096,en-NO,English,Norway
+1083,se-NO,Northern Sami,Norway
+1044,nb-NO,Norwegian Bokmål,Norway
+2068,nn-NO,Norwegian Nynorsk,Norway
+8193,ar-OM,Arabic,Oman
+4096,en-PK,English,Pakistan
+4096,ps-PK,Pashto,Pakistan
+2118,pa-PK,Punjabi,Pakistan
+4096,pa-PK,Punjabi,Pakistan
+4096,sd-PK,Sindhi,Pakistan
+1056,ur-PK,Urdu,Pakistan
+4096,ur-PK,Urdu,Pakistan
+4096,ur-PK,Urdu,Pakistan
+4096,en-PW,English,Palau
+4096,ar-PS,Arabic,Palestinian Territories
+6154,es-PA,Spanish,Panama
+4096,en-PG,English,Papua New Guinea
+1140,gn-PY,Guarani,Paraguay
+15370,es-PY,Spanish,Paraguay
+4096,qu-PE,Quechua,Peru
+10250,es-PE,Spanish,Peru
+4096,ceb-PH,Cebuano,Philippines
+13321,en-PH,English,Philippines
+1124,fil-PH,Filipino,Philippines
+4096,es-PH,Spanish,Philippines
+4096,en-PN,English,Pitcairn Islands
+4096,en-PL,English,Poland
+1045,pl-PL,Polish,Poland
+4096,en-PT,English,Portugal
+2070,pt-PT,Portuguese,Portugal
+4096,en-PR,English,Puerto Rico
+20490,es-PR,Spanish,Puerto Rico
+16385,ar-QA,Arabic,Qatar
+8204,fr-RE,French,Réunion
+4096,en-RO,English,Romania
+1048,ro-RO,Romanian,Romania
+1133,ba-RU,Bashkir,Russia
+4096,ce-RU,Chechen,Russia
+4096,cv-RU,Chuvash,Russia
+4096,en-RU,English,Russia
+4096,myv-RU,Erzya,Russia
+4096,os-RU,Ossetic,Russia
+1049,ru-RU,Russian,Russia
+1157,sah-RU,Sakha,Russia
+1092,tt-RU,Tatar,Russia
+4096,en-RW,English,Rwanda
+4096,fr-RW,French,Rwanda
+1159,rw-RW,Kinyarwanda,Rwanda
+4096,en-WS,English,Samoa
+4096,it-SM,Italian,San Marino
+4096,pt-ST,Portuguese,São Tomé & Príncipe
+1025,ar-SA,Arabic,Saudi Arabia
+4096,en-SA,English,Saudi Arabia
+10252,fr-SN,French,Senegal
+2151,ff-SN,Fulah,Senegal
+4096,dyo-SN,Jola-Fonyi,Senegal
+1160,wo-SN,Wolof,Senegal
+4096,en-RS,English,Serbia
+10266,sr-RS,Serbian,Serbia
+9242,sr-RS,Serbian,Serbia
+4096,en-SC,English,Seychelles
+4096,fr-SC,French,Seychelles
+4096,en-SL,English,Sierra Leone
+4096,ff-SL,Fulah,Sierra Leone
+4096,zh-SG,Chinese,Singapore
+18441,en-SG,English,Singapore
+4096,ms-SG,Malay,Singapore
+4096,ta-SG,Tamil,Singapore
+4096,nl-SX,Dutch,Sint Maarten
+4096,en-SX,English,Sint Maarten
+4096,es-SX,Spanish,Sint Maarten
+4096,en-SK,English,Slovakia
+1051,sk-SK,Slovak,Slovakia
+4096,en-SI,English,Slovenia
+1060,sl-SI,Slovenian,Slovenia
+4096,en-SB,English,Solomon Islands
+4096,ar-SO,Arabic,Somalia
+1143,so-SO,Somali,Somalia
+1078,af-ZA,Afrikaans,South Africa
+7177,en-ZA,English,South Africa
+1132,nso-ZA,Northern Sotho,South Africa
+4096,nr-ZA,South Ndebele,South Africa
+1072,st-ZA,Southern Sotho,South Africa
+4096,ss-ZA,Swati,South Africa
+1073,ts-ZA,Tsonga,South Africa
+1074,tn-ZA,Tswana,South Africa
+1075,ve-ZA,Venda,South Africa
+1076,xh-ZA,Xhosa,South Africa
+1077,zu-ZA,Zulu,South Africa
+4096,en-KR,English,South Korea
+1042,ko-KR,Korean,South Korea
+4096,ar-SS,Arabic,South Sudan
+4096,en-SS,English,South Sudan
+4096,nus-SS,Nuer,South Sudan
+4096,ast-ES,Asturian,Spain
+1069,eu-ES,Basque,Spain
+1027,ca-ES,Catalan,Spain
+4096,en-ES,English,Spain
+1110,gl-ES,Galician,Spain
+3082,es-ES,Spanish,Spain
+1115,si-LK,Sinhala,Sri Lanka
+2121,ta-LK,Tamil,Sri Lanka
+4096,fr-BL,French,St. Barthélemy
+4096,es-BL,Spanish,St. Barthélemy
+4096,en-SH,English,St. Helena
+4096,en-KN,English,St. Kitts & Nevis
+4096,es-KN,Spanish,St. Kitts & Nevis
+4096,en-LC,English,St. Lucia
+4096,es-LC,Spanish,St. Lucia
+4096,fr-MF,French,St. Martin
+4096,es-MF,Spanish,St. Martin
+4096,fr-PM,French,St. Pierre & Miquelon
+4096,es-PM,Spanish,St. Pierre & Miquelon
+4096,en-VC,English,St. Vincent & Grenadines
+4096,es-VC,Spanish,St. Vincent & Grenadines
+4096,ar-SD,Arabic,Sudan
+4096,en-SD,English,Sudan
+4096,nl-SR,Dutch,Suriname
+4096,es-SR,Spanish,Suriname
+4096,nb-SJ,Norwegian Bokmål,Svalbard & Jan Mayen
+4096,en-SE,English,Sweden
+2107,se-SE,Northern Sami,Sweden
+1053,sv-SE,Swedish,Sweden
+4096,en-CH,English,Switzerland
+4108,fr-CH,French,Switzerland
+2055,de-CH,German,Switzerland
+2064,it-CH,Italian,Switzerland
+4096,pt-CH,Portuguese,Switzerland
+1047,rm-CH,Romansh,Switzerland
+4096,gsw-CH,Swiss German,Switzerland
+4096,wae-CH,Walser,Switzerland
+10241,ar-SY,Arabic,Syria
+4096,fr-SY,French,Syria
+1114,syr-SY,Syriac,Syria
+4096,zh-TW,Chinese,Taiwan
+4096,en-TW,English,Taiwan
+4096,trv-TW,Taroko,Taiwan
+4096,tg-TJ,Tajik,Tajikistan
+4096,asa-TZ,Asu,Tanzania
+4096,bez-TZ,Bena,Tanzania
+4096,en-TZ,English,Tanzania
+4096,lag-TZ,Langi,Tanzania
+4096,jmc-TZ,Machame,Tanzania
+4096,kde-TZ,Makonde,Tanzania
+4096,mas-TZ,Masai,Tanzania
+4096,rof-TZ,Rombo,Tanzania
+4096,rwk-TZ,Rwa,Tanzania
+4096,sbp-TZ,Sangu,Tanzania
+4096,ksb-TZ,Shambala,Tanzania
+4096,sw-TZ,Swahili,Tanzania
+4096,vun-TZ,Vunjo,Tanzania
+4096,en-TH,English,Thailand
+1054,th-TH,Thai,Thailand
+4096,pt-TL,Portuguese,Timor-Leste
+4096,ee-TG,Ewe,Togo
+4096,fr-TG,French,Togo
+4096,en-TK,English,Tokelau
+4096,en-TO,English,Tonga
+4096,to-TO,Tongan,Tonga
+11273,en-TT,English,Trinidad & Tobago
+4096,es-TT,Spanish,Trinidad & Tobago
+7169,ar-TN,Arabic,Tunisia
+4096,fr-TN,French,Tunisia
+4096,en-TR,English,Turkey
+4096,ku-TR,Kurdish,Turkey
+1055,tr-TR,Turkish,Turkey
+1090,tk-TM,Turkmen,Turkmenistan
+4096,en-TC,English,Turks & Caicos Islands
+4096,es-TC,Spanish,Turks & Caicos Islands
+4096,en-TV,English,Tuvalu
+4096,en-UM,English,U.S. Outlying Islands
+4096,en-VI,English,U.S. Virgin Islands
+4096,es-VI,Spanish,U.S. Virgin Islands
+4096,cgg-UG,Chiga,Uganda
+4096,en-UG,English,Uganda
+4096,lg-UG,Ganda,Uganda
+4096,nyn-UG,Nyankole,Uganda
+4096,xog-UG,Soga,Uganda
+4096,sw-UG,Swahili,Uganda
+4096,teo-UG,Teso,Uganda
+4096,en-UA,English,Ukraine
+4096,ru-UA,Russian,Ukraine
+1058,uk-UA,Ukrainian,Ukraine
+14337,ar-AE,Arabic,United Arab Emirates
+4096,en-AE,English,United Arab Emirates
+4096,kw-GB,Cornish,United Kingdom
+2057,en-GB,English,United Kingdom
+1169,gd-GB,Scottish Gaelic,United Kingdom
+1106,cy-GB,Welsh,United Kingdom
+4096,chr-US,Cherokee,United States
+4096,en-US,English (United States),United States
+1033,en-US,English,United States
+1141,haw-US,Hawaiian,United States
+4096,lkt-US,Lakota,United States
+21514,es-US,Spanish,United States
+14346,es-UY,Spanish,Uruguay
+1091,uz-UZ,Uzbek,Uzbekistan
+2115,uz-UZ,Uzbek,Uzbekistan
+4096,en-VU,English,Vanuatu
+4096,fr-VU,French,Vanuatu
+4096,it-VA,Italian,Vatican City
+8202,es-VE,Spanish,Venezuela
+1066,vi-VN,Vietnamese,Vietnam
+4096,fr-WF,French,Wallis & Futuna
+4096,ar-EH,Arabic,Western Sahara
+4096,ar-001,Arabic,World
+4096,en-001,English,World
+4096,eo-001,Esperanto,World
+4096,io-001,Ido,World
+4096,ia-001,Interlingua,World
+4096,jbo-001,Lojban,World
+1085,yi-001,Yiddish,World
+9217,ar-YE,Arabic,Yemen
+4096,bem-ZM,Bemba,Zambia
+4096,en-ZM,English,Zambia
+12297,en-ZW,English,Zimbabwe
+4096,nd-ZW,North Ndebele,Zimbabwe
+4096,sn-ZW,Shona,Zimbabwe
