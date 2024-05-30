@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "code": "user",
+    "text": "User"
+  },
+  {
+    "id": 2,
+    "code": "alias",
+    "text": "Alias"
+  },
+  {
+    "id": 3,
+    "code": "asset",
+    "text": "Asset"
+  },
+  {
+    "id": 4,
+    "code": "list",
+    "text": "List"
+  },
+  {
+    "id": 5,
+    "code": "post",
+    "text": "Post"
+  },
+  {
+    "id": 6,
+    "code": "photo",
+    "text": "Photo"
+  },
+  {
+    "id": 7,
+    "code": "book",
+    "text": "Book"
+  },
+  {
+    "id": 8,
+    "code": "media",
+    "text": "Media"
+  },
+  {
+    "id": 9,
+    "code": "file",
+    "text": "File"
+  },
+  {
+    "id": 10,
+    "code": "path",
+    "text": "Path"
+  }
+]
