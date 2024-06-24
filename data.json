@@ -8,6 +8,12 @@
   },
   "stores": [
     {
+      "id": "1c_vxcGDujwU23lzTracoskcRjZcOUsfE",
+      "code": "data",
+      "title": "",
+      "account": "data.iot.vn"
+    },
+    {
       "id": "1aBtIxmV2aezCzGY6URQbdi6m1s3T2zL5",
       "code": "tag",
       "title": "",
