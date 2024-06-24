@@ -1,0 +1,47 @@
+{
+  "scope": {
+    "test": 0,
+    "phuquy": 1,
+    "mascot": 2,
+    "english": 3,
+    "huong": 4
+  },
+  "stores": [
+    {
+      "id": "1aBtIxmV2aezCzGY6URQbdi6m1s3T2zL5",
+      "code": "tag",
+      "title": "",
+      "account": "tag.iot.vn"
+    },
+    {
+      "id": "1dDoynrZkffPpcvyqFfgvLd1lVhOV9Hmd",
+      "code": "item",
+      "title": "",
+      "account": "item.iot.vn"
+    },
+    {
+      "id": "1E415x-CGsIFacWZ3wE3FHyOy5QdRvaba",
+      "code": "book",
+      "title": "",
+      "account": "book.iot.vn"
+    },
+    {
+      "id": "1m-uz_lcUUW-0mksb1VIE3tBeHuTwuxbB",
+      "code": "user",
+      "title": "",
+      "account": "user.iot.vn"
+    },
+    {
+      "id": "1tmuVF27Rymzo_812R8cOCwYNPRp1mSuq",
+      "code": "list",
+      "title": "",
+      "account": "list.iot.vn"
+    },
+    {
+      "id": "1NcxecacV1L1h8xRxvl3KeAPY7HOe_N2U",
+      "code": "photo",
+      "title": "",
+      "account": "photo.iot.vn"
+    }
+  ]
+}
