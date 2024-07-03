@@ -1,6 +1,21 @@
 {
-  "id": "g2zTXmCh7",
-  "title": "English",
+  "id": "g2zTXmCh9",
+  "title": "En",
+  "logo": "http://localhost:6969/mascot/logo.png",
+  "appInline": {
+    "__menuApp": {
+      "vueName": "menu-app",
+      "css": ""
+    },
+    "__formKit": {
+      "vueName": "kit-form",
+      "css": ""
+    },
+    "__alertKit": {
+      "vueName": "kit-alert",
+      "css": ""
+    }
+  },
   "assets": [ "child", "post", "tooltip", "photo", "media", "file", "event", "job" ],
   "status": 1
 }
