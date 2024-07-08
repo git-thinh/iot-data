@@ -6,6 +6,10 @@
       "vueName": "menu-app",
       "css": ""
     },
+    "__menuPage": {
+      "vueName": "menu-page",
+      "css": ""
+    },
     "__formKit": {
       "vueName": "kit-form",
       "css": ""
