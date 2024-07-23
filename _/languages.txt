@@ -1,0 +1,655 @@
+﻿ps-AF,Afghanistan
+fa-AF,Afghanistan
+uz-AF,Afghanistan
+sv-AX,Åland Islands
+sq-AL,Albania
+en-AL,Albania
+ar-DZ,Algeria
+fr-DZ,Algeria
+kab-DZ,Algeria
+en-AS,American Samoa
+ca-AD,Andorra
+en-AD,Andorra
+ln-AO,Angola
+pt-AO,Angola
+en-AI,Anguilla
+es-AI,Anguilla
+en-AG,Antigua & Barbuda
+es-AG,Antigua & Barbuda
+en-AR,Argentina
+es-AR,Argentina
+hy-AM,Armenia
+nl-AW,Aruba
+es-AW,Aruba
+en-AU,Australia
+en-AT,Austria
+de-AT,Austria
+az-AZ,Azerbaijan
+az-AZ,Azerbaijan
+en-BS,Bahamas
+es-BS,Bahamas
+ar-BH,Bahrain
+bn-BD,Bangladesh
+ccp-BD,Bangladesh
+en-BD,Bangladesh
+en-BB,Barbados
+es-BB,Barbados
+be-BY,Belarus
+ru-BY,Belarus
+nl-BE,Belgium
+en-BE,Belgium
+fr-BE,Belgium
+de-BE,Belgium
+wa-BE,Belgium
+en-BZ,Belize
+es-BZ,Belize
+fr-BJ,Benin
+yo-BJ,Benin
+en-BM,Bermuda
+es-BM,Bermuda
+dz-BT,Bhutan
+qu-BO,Bolivia
+es-BO,Bolivia
+bs-BA,Bosnia & Herzegovina
+bs-BA,Bosnia & Herzegovina
+hr-BA,Bosnia & Herzegovina
+en-BA,Bosnia & Herzegovina
+sr-BA,Bosnia & Herzegovina
+sr-BA,Bosnia & Herzegovina
+en-BW,Botswana
+tn-BW,Botswana
+en-BR,Brazil
+pt-BR,Brazil
+es-BR,Brazil
+en-IO,British Indian Ocean Territory
+en-VG,British Virgin Islands
+es-VG,British Virgin Islands
+ms-BN,Brunei
+ms-BN,Brunei
+bg-BG,Bulgaria
+en-BG,Bulgaria
+fr-BF,Burkina Faso
+ff-BF,Burkina Faso
+en-BI,Burundi
+fr-BI,Burundi
+rn-BI,Burundi
+km-KH,Cambodia
+agq-CM,Cameroon
+ksf-CM,Cameroon
+bas-CM,Cameroon
+dua-CM,Cameroon
+en-CM,Cameroon
+ewo-CM,Cameroon
+fr-CM,Cameroon
+ff-CM,Cameroon
+kkj-CM,Cameroon
+nmg-CM,Cameroon
+mgo-CM,Cameroon
+mua-CM,Cameroon
+nnh-CM,Cameroon
+jgo-CM,Cameroon
+yav-CM,Cameroon
+en-CA,Canada
+fr-CA,Canada
+iu-CA,Canada
+moh-CA,Canada
+es-CA,Canada
+es-IC,Canary Islands
+kea-CV,Cape Verde
+pt-CV,Cape Verde
+nl-BQ,Caribbean Netherlands
+es-BQ,Caribbean Netherlands
+en-KY,Cayman Islands
+es-KY,Cayman Islands
+fr-CF,Central African Republic
+ln-CF,Central African Republic
+sg-CF,Central African Republic
+es-EA,Ceuta & Melilla
+ar-TD,Chad
+fr-TD,Chad
+en-CL,Chile
+arn-CL,Chile
+es-CL,Chile
+yue-CN,China mainland
+zh-CN,China mainland
+zh-CN,China mainland
+en-CN,China mainland
+ii-CN,China mainland
+bo-CN,China mainland
+ug-CN,China mainland
+en-CX,Christmas Island
+en-CC,Cocos (Keeling) Islands
+en-CO,Colombia
+es-CO,Colombia
+ar-KM,Comoros
+fr-KM,Comoros
+fr-CG,Congo - Brazzaville
+ln-CG,Congo - Brazzaville
+fr-CD,Congo - Kinshasa
+ln-CD,Congo - Kinshasa
+lu-CD,Congo - Kinshasa
+sw-CD,Congo - Kinshasa
+en-CK,Cook Islands
+es-CR,Costa Rica
+fr-CI,Côte d’Ivoire
+hr-HR,Croatia
+en-HR,Croatia
+es-CU,Cuba
+nl-CW,Curaçao
+es-CW,Curaçao
+en-CY,Cyprus
+el-CY,Cyprus
+tr-CY,Cyprus
+cs-CZ,Czechia
+en-CZ,Czechia
+da-DK,Denmark
+en-DK,Denmark
+fo-DK,Denmark
+en-DG,Diego Garcia
+ar-DJ,Djibouti
+fr-DJ,Djibouti
+so-DJ,Djibouti
+en-DM,Dominica
+es-DM,Dominica
+es-DO,Dominican Republic
+qu-EC,Ecuador
+es-EC,Ecuador
+ar-EG,Egypt
+es-SV,El Salvador
+fr-GQ,Equatorial Guinea
+pt-GQ,Equatorial Guinea
+es-GQ,Equatorial Guinea
+ar-ER,Eritrea
+byn-ER,Eritrea
+en-ER,Eritrea
+gez-ER,Eritrea
+tig-ER,Eritrea
+ti-ER,Eritrea
+en-EE,Estonia
+et-EE,Estonia
+en-SZ,Eswatini
+ss-SZ,Eswatini
+am-ET,Ethiopia
+gez-ET,Ethiopia
+om-ET,Ethiopia
+so-ET,Ethiopia
+ti-ET,Ethiopia
+wal-ET,Ethiopia
+en-150,Europe
+en-FK,Falkland Islands
+es-FK,Falkland Islands
+fo-FO,Faroe Islands
+en-FJ,Fiji
+en-FI,Finland
+fi-FI,Finland
+smn-FI,Finland
+se-FI,Finland
+sv-FI,Finland
+br-FR,France
+ca-FR,France
+co-FR,France
+en-FR,France
+fr-FR,France
+oc-FR,France
+pt-FR,France
+gsw-FR,France
+fr-GF,French Guiana
+es-GF,French Guiana
+fr-PF,French Polynesia
+fr-GA,Gabon
+en-GM,Gambia
+ff-GM,Gambia
+ka-GE,Georgia
+os-GE,Georgia
+ksh-DE,Germany
+en-DE,Germany
+de-DE,Germany
+nds-DE,Germany
+dsb-DE,Germany
+hsb-DE,Germany
+ak-GH,Ghana
+en-GH,Ghana
+ee-GH,Ghana
+ff-GH,Ghana
+gaa-GH,Ghana
+ha-GH,Ghana
+en-GI,Gibraltar
+en-GR,Greece
+el-GR,Greece
+da-GL,Greenland
+kl-GL,Greenland
+es-GL,Greenland
+en-GD,Grenada
+es-GD,Grenada
+fr-GP,Guadeloupe
+es-GP,Guadeloupe
+en-GU,Guam
+es-GT,Guatemala
+en-GG,Guernsey
+ff-GW,Guinea-Bissau
+pt-GW,Guinea-Bissau
+fr-GN,Guinea
+ff-GN,Guinea
+kpe-GN,Guinea
+nqo-GN,Guinea
+en-GY,Guyana
+es-GY,Guyana
+fr-HT,Haiti
+es-HT,Haiti
+es-HN,Honduras
+yue-HK,Hong Kong
+zh-HK,Hong Kong
+zh-HK,Hong Kong
+en-HK,Hong Kong
+en-HU,Hungary
+hu-HU,Hungary
+en-IS,Iceland
+is-IS,Iceland
+as-IN,India
+bn-IN,India
+brx-IN,India
+ccp-IN,India
+en-IN,India
+gu-IN,India
+hi-IN,India
+kn-IN,India
+ks-IN,India
+ks-IN,India
+ks-IN,India
+kok-IN,India
+ml-IN,India
+mni-IN,India
+mni-IN,India
+mr-IN,India
+ne-IN,India
+or-IN,India
+pa-IN,India
+sa-IN,India
+sat-IN,India
+sat-IN,India
+ta-IN,India
+te-IN,India
+bo-IN,India
+ur-IN,India
+ur-IN,India
+ur-IN,India
+en-ID,Indonesia
+id-ID,Indonesia
+jv-ID,Indonesia
+ckb-IR,Iran
+mzn-IR,Iran
+lrc-IR,Iran
+fa-IR,Iran
+ar-IQ,Iraq
+ckb-IQ,Iraq
+lrc-IQ,Iraq
+syr-IQ,Iraq
+en-IE,Ireland
+ga-IE,Ireland
+en-IM,Isle of Man
+gv-IM,Isle of Man
+ar-IL,Israel
+en-IL,Israel
+he-IL,Israel
+ca-IT,Italy
+en-IT,Italy
+fur-IT,Italy
+de-IT,Italy
+it-IT,Italy
+sc-IT,Italy
+scn-IT,Italy
+en-JM,Jamaica
+en-JP,Japan
+ja-JP,Japan
+en-JE,Jersey
+ar-JO,Jordan
+kk-KZ,Kazakhstan
+ru-KZ,Kazakhstan
+ebu-KE,Kenya
+en-KE,Kenya
+guz-KE,Kenya
+kln-KE,Kenya
+kam-KE,Kenya
+ki-KE,Kenya
+luo-KE,Kenya
+luy-KE,Kenya
+mas-KE,Kenya
+mer-KE,Kenya
+om-KE,Kenya
+saq-KE,Kenya
+so-KE,Kenya
+sw-KE,Kenya
+dav-KE,Kenya
+teo-KE,Kenya
+en-KI,Kiribati
+sq-XK,Kosovo
+sr-XK,Kosovo
+sr-XK,Kosovo
+ar-KW,Kuwait
+ky-KG,Kyrgyzstan
+ru-KG,Kyrgyzstan
+lo-LA,Laos
+es-419,Latin America
+en-LV,Latvia
+lv-LV,Latvia
+ar-LB,Lebanon
+en-LS,Lesotho
+st-LS,Lesotho
+en-LR,Liberia
+ff-LR,Liberia
+kpe-LR,Liberia
+vai-LR,Liberia
+vai-LR,Liberia
+ar-LY,Libya
+de-LI,Liechtenstein
+gsw-LI,Liechtenstein
+en-LT,Lithuania
+lt-LT,Lithuania
+en-LU,Luxembourg
+fr-LU,Luxembourg
+de-LU,Luxembourg
+lb-LU,Luxembourg
+pt-LU,Luxembourg
+zh-MO,Macao
+zh-MO,Macao
+en-MO,Macao
+pt-MO,Macao
+en-MG,Madagascar
+fr-MG,Madagascar
+mg-MG,Madagascar
+en-MW,Malawi
+ny-MW,Malawi
+en-MY,Malaysia
+ms-MY,Malaysia
+ms-MY,Malaysia
+ta-MY,Malaysia
+dv-MV,Maldives
+en-MV,Maldives
+bm-ML,Mali
+fr-ML,Mali
+khq-ML,Mali
+ses-ML,Mali
+en-MT,Malta
+mt-MT,Malta
+en-MH,Marshall Islands
+fr-MQ,Martinique
+es-MQ,Martinique
+ar-MR,Mauritania
+fr-MR,Mauritania
+ff-MR,Mauritania
+en-MU,Mauritius
+fr-MU,Mauritius
+mfe-MU,Mauritius
+fr-YT,Mayotte
+en-MX,Mexico
+es-MX,Mexico
+en-FM,Micronesia
+ro-MD,Moldova
+ru-MD,Moldova
+fr-MC,Monaco
+mn-MN,Mongolia
+en-ME,Montenegro
+sr-ME,Montenegro
+sr-ME,Montenegro
+en-MS,Montserrat
+es-MS,Montserrat
+ar-MA,Morocco
+tzm-MA,Morocco
+fr-MA,Morocco
+zgh-MA,Morocco
+shi-MA,Morocco
+shi-MA,Morocco
+mgh-MZ,Mozambique
+pt-MZ,Mozambique
+seh-MZ,Mozambique
+my-MM,Myanmar (Burma)
+en-MM,Myanmar (Burma)
+af-NA,Namibia
+en-NA,Namibia
+naq-NA,Namibia
+en-NR,Nauru
+ne-NP,Nepal
+nl-NL,Netherlands
+en-NL,Netherlands
+nds-NL,Netherlands
+fy-NL,Netherlands
+fr-NC,New Caledonia
+en-NZ,New Zealand
+mi-NZ,New Zealand
+es-NI,Nicaragua
+fr-NE,Niger
+ff-NE,Niger
+ha-NE,Niger
+twq-NE,Niger
+dje-NE,Niger
+en-NG,Nigeria
+ff-NG,Nigeria
+ha-NG,Nigeria
+ig-NG,Nigeria
+kaj-NG,Nigeria
+kcg-NG,Nigeria
+yo-NG,Nigeria
+en-NU,Niue
+en-NF,Norfolk Island
+ko-KP,North Korea
+sq-MK,North Macedonia
+mk-MK,North Macedonia
+en-MP,Northern Mariana Islands
+en-NO,Norway
+se-NO,Norway
+nb-NO,Norway
+nn-NO,Norway
+ar-OM,Oman
+en-PK,Pakistan
+ps-PK,Pakistan
+pa-PK,Pakistan
+pa-PK,Pakistan
+sd-PK,Pakistan
+ur-PK,Pakistan
+ur-PK,Pakistan
+ur-PK,Pakistan
+en-PW,Palau
+ar-PS,Palestinian Territories
+es-PA,Panama
+en-PG,Papua New Guinea
+gn-PY,Paraguay
+es-PY,Paraguay
+qu-PE,Peru
+es-PE,Peru
+ceb-PH,Philippines
+en-PH,Philippines
+fil-PH,Philippines
+es-PH,Philippines
+en-PN,Pitcairn Islands
+en-PL,Poland
+pl-PL,Poland
+en-PT,Portugal
+pt-PT,Portugal
+en-PR,Puerto Rico
+es-PR,Puerto Rico
+ar-QA,Qatar
+fr-RE,Réunion
+en-RO,Romania
+ro-RO,Romania
+ba-RU,Russia
+ce-RU,Russia
+cv-RU,Russia
+en-RU,Russia
+myv-RU,Russia
+os-RU,Russia
+ru-RU,Russia
+sah-RU,Russia
+tt-RU,Russia
+en-RW,Rwanda
+fr-RW,Rwanda
+rw-RW,Rwanda
+en-WS,Samoa
+it-SM,San Marino
+pt-ST,São Tomé & Príncipe
+ar-SA,Saudi Arabia
+en-SA,Saudi Arabia
+fr-SN,Senegal
+ff-SN,Senegal
+dyo-SN,Senegal
+wo-SN,Senegal
+en-RS,Serbia
+sr-RS,Serbia
+sr-RS,Serbia
+en-SC,Seychelles
+fr-SC,Seychelles
+en-SL,Sierra Leone
+ff-SL,Sierra Leone
+zh-SG,Singapore
+en-SG,Singapore
+ms-SG,Singapore
+ta-SG,Singapore
+nl-SX,Sint Maarten
+en-SX,Sint Maarten
+es-SX,Sint Maarten
+en-SK,Slovakia
+sk-SK,Slovakia
+en-SI,Slovenia
+sl-SI,Slovenia
+en-SB,Solomon Islands
+ar-SO,Somalia
+so-SO,Somalia
+af-ZA,South Africa
+en-ZA,South Africa
+nso-ZA,South Africa
+nr-ZA,South Africa
+st-ZA,South Africa
+ss-ZA,South Africa
+ts-ZA,South Africa
+tn-ZA,South Africa
+ve-ZA,South Africa
+xh-ZA,South Africa
+zu-ZA,South Africa
+en-KR,South Korea
+ko-KR,South Korea
+ar-SS,South Sudan
+en-SS,South Sudan
+nus-SS,South Sudan
+ast-ES,Spain
+eu-ES,Spain
+ca-ES,Spain
+en-ES,Spain
+gl-ES,Spain
+es-ES,Spain
+si-LK,Sri Lanka
+ta-LK,Sri Lanka
+fr-BL,St. Barthélemy
+es-BL,St. Barthélemy
+en-SH,St. Helena
+en-KN,St. Kitts & Nevis
+es-KN,St. Kitts & Nevis
+en-LC,St. Lucia
+es-LC,St. Lucia
+fr-MF,St. Martin
+es-MF,St. Martin
+fr-PM,St. Pierre & Miquelon
+es-PM,St. Pierre & Miquelon
+en-VC,St. Vincent & Grenadines
+es-VC,St. Vincent & Grenadines
+ar-SD,Sudan
+en-SD,Sudan
+nl-SR,Suriname
+es-SR,Suriname
+nb-SJ,Svalbard & Jan Mayen
+en-SE,Sweden
+se-SE,Sweden
+sv-SE,Sweden
+en-CH,Switzerland
+fr-CH,Switzerland
+de-CH,Switzerland
+it-CH,Switzerland
+pt-CH,Switzerland
+rm-CH,Switzerland
+gsw-CH,Switzerland
+wae-CH,Switzerland
+ar-SY,Syria
+fr-SY,Syria
+syr-SY,Syria
+zh-TW,Taiwan
+en-TW,Taiwan
+trv-TW,Taiwan
+tg-TJ,Tajikistan
+asa-TZ,Tanzania
+bez-TZ,Tanzania
+en-TZ,Tanzania
+lag-TZ,Tanzania
+jmc-TZ,Tanzania
+kde-TZ,Tanzania
+mas-TZ,Tanzania
+rof-TZ,Tanzania
+rwk-TZ,Tanzania
+sbp-TZ,Tanzania
+ksb-TZ,Tanzania
+sw-TZ,Tanzania
+vun-TZ,Tanzania
+en-TH,Thailand
+th-TH,Thailand
+pt-TL,Timor-Leste
+ee-TG,Togo
+fr-TG,Togo
+en-TK,Tokelau
+en-TO,Tonga
+to-TO,Tonga
+en-TT,Trinidad & Tobago
+es-TT,Trinidad & Tobago
+ar-TN,Tunisia
+fr-TN,Tunisia
+en-TR,Turkey
+ku-TR,Turkey
+tr-TR,Turkey
+tk-TM,Turkmenistan
+en-TC,Turks & Caicos Islands
+es-TC,Turks & Caicos Islands
+en-TV,Tuvalu
+en-UM,U.S. Outlying Islands
+en-VI,U.S. Virgin Islands
+es-VI,U.S. Virgin Islands
+cgg-UG,Uganda
+en-UG,Uganda
+lg-UG,Uganda
+nyn-UG,Uganda
+xog-UG,Uganda
+sw-UG,Uganda
+teo-UG,Uganda
+en-UA,Ukraine
+ru-UA,Ukraine
+uk-UA,Ukraine
+ar-AE,United Arab Emirates
+en-AE,United Arab Emirates
+kw-GB,United Kingdom
+en-GB,United Kingdom
+gd-GB,United Kingdom
+cy-GB,United Kingdom
+chr-US,United States
+en-US,United States
+en-US,United States
+haw-US,United States
+lkt-US,United States
+es-US,United States
+es-UY,Uruguay
+uz-UZ,Uzbekistan
+uz-UZ,Uzbekistan
+en-VU,Vanuatu
+fr-VU,Vanuatu
+it-VA,Vatican City
+es-VE,Venezuela
+vi-VN,Vietnam
+fr-WF,Wallis & Futuna
+ar-EH,Western Sahara
+ar-001,World
+en-001,World
+eo-001,World
+io-001,World
+ia-001,World
+jbo-001,World
+yi-001,World
+ar-YE,Yemen
+bem-ZM,Zambia
+en-ZM,Zambia
+en-ZW,Zimbabwe
+nd-ZW,Zimbabwe
+sn-ZW,Zimbabwe
