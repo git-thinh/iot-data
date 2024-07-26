@@ -142,7 +142,7 @@ el-CY,Cyprus
 tr-CY,Cyprus
 cs-CZ,Czechia
 en-CZ,Czechia
-da-DK,Denmark
+da,da-DK,Denmark
 en-DK,Denmark
 fo-DK,Denmark
 en-DG,Diego Garcia
@@ -181,7 +181,7 @@ es-FK,Falkland Islands
 fo-FO,Faroe Islands
 en-FJ,Fiji
 en-FI,Finland
-fi-FI,Finland
+fi,fi-FI,Finland
 smn-FI,Finland
 se-FI,Finland
 sv-FI,Finland
@@ -189,7 +189,7 @@ br-FR,France
 ca-FR,France
 co-FR,France
 en-FR,France
-fr-FR,France
+fr,fr-FR,France
 oc-FR,France
 pt-FR,France
 gsw-FR,France
@@ -203,7 +203,7 @@ ka-GE,Georgia
 os-GE,Georgia
 ksh-DE,Germany
 en-DE,Germany
-de-DE,Germany
+de,de-DE,Germany
 nds-DE,Germany
 dsb-DE,Germany
 hsb-DE,Germany
@@ -295,7 +295,7 @@ ca-IT,Italy
 en-IT,Italy
 fur-IT,Italy
 de-IT,Italy
-it-IT,Italy
+it,it-IT,Italy
 sc-IT,Italy
 scn-IT,Italy
 en-JM,Jamaica
@@ -409,7 +409,7 @@ en-NA,Namibia
 naq-NA,Namibia
 en-NR,Nauru
 ne-NP,Nepal
-nl-NL,Netherlands
+nl,nl-NL,Netherlands
 en-NL,Netherlands
 nds-NL,Netherlands
 fy-NL,Netherlands
@@ -462,7 +462,7 @@ fil-PH,Philippines
 es-PH,Philippines
 en-PN,Pitcairn Islands
 en-PL,Poland
-pl-PL,Poland
+pl,pl-PL,Poland
 en-PT,Portugal
 pt-PT,Portugal
 en-PR,Puerto Rico
@@ -534,7 +534,7 @@ eu-ES,Spain
 ca-ES,Spain
 en-ES,Spain
 gl-ES,Spain
-es-ES,Spain
+es,es-ES,Spain
 si-LK,Sri Lanka
 ta-LK,Sri Lanka
 fr-BL,St. Barthélemy
@@ -621,7 +621,7 @@ uk-UA,Ukraine
 ar-AE,United Arab Emirates
 en-AE,United Arab Emirates
 kw-GB,United Kingdom
-en-GB,United Kingdom
+en,en-GB,United Kingdom
 gd-GB,United Kingdom
 cy-GB,United Kingdom
 chr-US,United States
@@ -653,3 +653,5 @@ en-ZM,Zambia
 en-ZW,Zimbabwe
 nd-ZW,Zimbabwe
 sn-ZW,Zimbabwe
+no,no-NO,Norge
+sv,sv-SV,Sverige
